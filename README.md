@@ -15,3 +15,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: zero
 - ⚡ Fun fact: i like jeketi hihi
 
+<p align="left">
+<a href="https://github.com/asyfaolyvia">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=asyfaolyvia&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=asyfaolyvia&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
