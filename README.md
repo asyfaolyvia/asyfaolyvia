@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Perkenalkan nama saya **ASYFA DWI OLYVIA**.\
+Perkenalkan nama saya **ASYFA OLYVIA**.\
 
 Saya seorang **Newbe Developer** di [MyownWebsite](https://www.belumdibuat.com/).\
 
